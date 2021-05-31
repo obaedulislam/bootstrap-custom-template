@@ -1,0 +1,13 @@
+/* ===|| Font Intigration Start ||=== */
+@font-face{
+    font-family: 'PT Sans', sans-serif;
+    src: url(..//fonts/PTSans-Regular.ttf);
+    src: url(..//fonts/PTSans-Bold.ttf);
+}
+/* ===|| Font Intigration End ||=== */
+
+/* ===|| Common CSS Start ||=== */
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+/* ===|| Common CSS End ||=== */
